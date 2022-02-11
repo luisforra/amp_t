@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "rqconapt",
+    "id": "ckziflotg39397501s67fjj2ybl",
+    "url": "https://app.amplication.com/ckziflotg39397501s67fjj2ybl",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckziflotg39397501s67fjj2ybl",
+      "authProvider": "Jwt"
+    }
+  }
+}
